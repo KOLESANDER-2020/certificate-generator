@@ -4,6 +4,8 @@ An offline, single-file tool for managers who send gift certificates to clients 
 
 ![Certificate Generator screenshot](docs/screenshot.png)
 
+Screenshots in other languages: [Українська](docs/screenshot-uk.png) · [Русский](docs/screenshot-ru.png)
+
 **Live demo:** [English](https://kolesander-2020.github.io/certificate-generator/?lang=en) · [Українська](https://kolesander-2020.github.io/certificate-generator/?lang=uk) · [Русский](https://kolesander-2020.github.io/certificate-generator/?lang=ru)
 
 Demo tables: [`demo/demo-clients-en.xlsx`](demo/demo-clients-en.xlsx), [`-uk`](demo/demo-clients-uk.xlsx), [`-ru`](demo/demo-clients-ru.xlsx).
@@ -21,7 +23,7 @@ Demo tables: [`demo/demo-clients-en.xlsx`](demo/demo-clients-en.xlsx), [`-uk`](d
 
 ## Demo data
 
-The demo tables contain only fairy-tale characters. Phones use the non-existent `+999` country code, emails and links use the reserved `example.com` domain, and **Demo mode** is switched on in the “Settings” sheet, so the “Open chat” button never opens Telegram. Writing statuses works on your downloaded copy of the table.
+The demo tables contain only Game of Thrones characters. Phones use the non-existent `+999` country code, emails and links use the reserved `example.com` domain, and **Demo mode** is switched on in the “Settings” sheet, so the “Open chat” button never opens Telegram. Writing statuses works on your downloaded copy of the table.
 
 ## How to run
 
